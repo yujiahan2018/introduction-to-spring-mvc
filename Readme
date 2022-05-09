@@ -1,6 +1,6 @@
 程序参数
 1. 数据库：user
-2. 数据表：tables
+2. 数据表：tables，字段如下：编号id，姓名name，年龄age
 3. spring + spring mvc + mybatis
 4. maven项目
 5. 数据库驱动：mysql
